@@ -47,6 +47,7 @@ Then you can start the development server by running the following command-
 ```
 php artisan serve
 ```
+This command will start your development server at `localhost:8000`. But I highly recommend to use [laravel valet](https://laravel.com/docs/5.6/valet) if you are a Mac user. [Windows](https://github.com/cretueusebiu/valet-windows) and [Linux](https://github.com/cpriego/valet-linux) versions are available too.
 
 If you want to install some seed data to get a proper idea about how the system works, then run these commands-
 
